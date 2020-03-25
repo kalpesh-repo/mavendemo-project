@@ -1,7 +1,7 @@
 class Dog implements Comparable<Dog> {
 	String color;
 	int size;
-
+	//comment
 	Dog(String c, int s) {
 		color = c;
 		size = s;
